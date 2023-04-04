@@ -1,0 +1,15 @@
+discord.py
+bs4
+facebook-sdk
+Flask
+pyparsing
+PyNaCl
+youtube-dl
+python-dateutil
+psutil
+pillow
+translate
+matplotlib
+googletrans==3.1.0a0
+mysql-connector-python
+openai

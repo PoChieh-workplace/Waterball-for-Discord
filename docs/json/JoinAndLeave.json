@@ -1,0 +1,6 @@
+{
+    "Guild_id.join": {
+        "channel": "channel_id",
+        "Text"
+    }
+}

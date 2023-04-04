@@ -1,0 +1,15 @@
+{
+    "devoloper": [
+        "user_id"
+    ],
+    "admin": {
+        "guild_id": [
+            "user_id"
+        ]
+    },
+    "high": {
+        "guild_id": [
+            "user_id"
+        ]
+    }
+}

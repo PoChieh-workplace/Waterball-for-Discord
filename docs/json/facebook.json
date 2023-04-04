@@ -1,0 +1,18 @@
+{
+    "whsh": {
+        "url": "/ID?fields=posts.limit(100)",
+        "token": "FacebookToken",
+        "nowid": "",
+        "id": "111919884820050_239962522028970"
+    },
+    "chixing": {
+        "url": "/ID?fields=posts.limit(100)",
+        "token": "FacebookToken",
+        "nowid": ""
+    },
+    "sendchannel": {
+        "whsh": [
+            "ID"
+        ]
+    }
+}
